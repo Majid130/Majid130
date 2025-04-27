@@ -1,4 +1,5 @@
 ## Hi there 👋
+![logo](https://github.com/user-attachments/assets/e7332427-e953-4bbb-b7a4-99e843a06e30)
 
 <!--
 **Majid130/Majid130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
 -->
 <h1 align="center">Hi 👋, I'm Majid Ali</h1>
