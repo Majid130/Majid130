@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo](https://github.com/user-attachments/assets/e7332427-e953-4bbb-b7a4-99e843a06e30)
+![logo]([https://github.com/user-attachments/assets/e7332427-e953-4bbb-b7a4-99e843a06e30](https://www.bing.com/search?pglt=43&q=ai+ml+background+images&cvid=8e3eb865910f4fc482dd4d889d97db1d&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEAyBggJEAAYQNIBCTEzMTU2ajBqN6gCCLACAQ&FORM=ANNTA1&PC=U531))
 
 <!--
 **Majid130/Majid130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
