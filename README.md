@@ -12,20 +12,6 @@
 
 ---
 
-## 👨‍💻 About Me
-<div align="center">
-
-# 👋 Hi, I'm **Majid Ali**
-
-### AI & ML Student | Python Learner | Aspiring AI Engineer 🚀
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Majid130&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
-
-</div>
-
----
 
 ## 👨‍💻 About Me
 
